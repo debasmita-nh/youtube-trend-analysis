@@ -26,3 +26,4 @@ Thumbs.db
 data/*.csv
 data/*.json
 !data/.gitkeep
+!data/sample_youtube_data.csv
