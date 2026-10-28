@@ -157,6 +157,6 @@ For an in-depth strategic analysis including executive implications, category be
 
 ## Author
 
-**[Your Name]** — *Data Analytics Internship Project*  
-- Portfolio / GitHub: `https://github.com/your-username`  
-- LinkedIn: `https://linkedin.com/in/your-profile`
+**Debasmita Nath** — *Data Analytics Internship Project*  
+- Portfolio / GitHub: `https://github.com/debasmita-nh`  
+- LinkedIn: `https://www.linkedin.com/in/debasmita-nath-7459233b6/`
